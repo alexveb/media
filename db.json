@@ -1,38 +1,25 @@
 {
   "users": [
     {
-      "name": "Andrew Bartell",
-      "id": 4
+      "name": "Rita Bode",
+      "id": 1
     },
     {
-      "name": "Mr. Gordon Bayer",
-      "id": 9
-    },
+      "name": "Ollie Carter",
+      "id": 2
+    }
+  ],
+  "albums": [
     {
-      "name": "Kelly Welch",
-      "id": 10
-    },
-    {
-      "name": "Margie Nienow",
-      "id": 11
-    },
-    {
-      "name": "Ted Senger",
-      "id": 12
-    },
-    {
-      "name": "Lawrence Kuphal",
+      "userId": 1,
+      "title": "Gorgeous Fresh Sausages",
       "id": 13
     },
     {
-      "name": "Camille Yundt",
+      "userId": 1,
+      "title": "Oriental Steel Salad",
       "id": 14
-    },
-    {
-      "name": "Wallace Lebsack",
-      "id": 15
     }
   ],
-  "albums": [],
   "photos": []
 }
