@@ -1,25 +1,5 @@
 {
-  "users": [
-    {
-      "name": "Rita Bode",
-      "id": 1
-    },
-    {
-      "name": "Ollie Carter",
-      "id": 2
-    }
-  ],
-  "albums": [
-    {
-      "userId": 1,
-      "title": "Gorgeous Fresh Sausages",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Oriental Steel Salad",
-      "id": 14
-    }
-  ],
+  "users": [],
+  "albums": [],
   "photos": []
 }
